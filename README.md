@@ -30,3 +30,19 @@ BookManagementSystem/
 ├── BookManager.java # Main class with system logic
 └── README.md # Project documentation
 
+🧠 Concepts Covered
+Classes and Objects
+
+Encapsulation
+
+Collections (ArrayList)
+
+User input via Scanner
+
+Menu-driven logic
+
+Exception handling (basic)
+
+
+📌 Note
+This is a beginner-friendly project perfect for those revisiting or learning Java fundamentals. Contributions or suggestions are welcome!
