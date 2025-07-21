@@ -25,3 +25,8 @@ This is a simple **Book Management System** built using **Core Java (Java SE)**.
 
 ## 📦 Project Structure
 
+BookManagementSystem/
+├── Book.java # Book class (model)
+├── BookManager.java # Main class with system logic
+└── README.md # Project documentation
+
